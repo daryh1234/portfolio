@@ -8,7 +8,8 @@ Architect (B.Arch, Universitas Lampung) and freelance 3D artist since 2020, base
 - Currently learning: AI tools for content creation and basic scripting, deep learning into architectural film making
 
 ## Portfolio
-- 3D work: https://www.behance.net/gallery/256975359/Architecture-Portfolio
+- Architecture: https://www.behance.net/gallery/256975359/Architecture-Portfolio
+- 3d works: https://www.instagram.com/daryhakiim/
 
 ## Contact
 - Email: dary.sakinah12@gmail.com 
